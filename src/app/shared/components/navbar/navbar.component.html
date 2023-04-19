@@ -1,0 +1,19 @@
+<!-- ==================== BOXICONS ==================== -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/boxicons@latest/css/boxicons.min.css">
+<!-- ==================== HEADER ==================== -->
+<header class="header">
+  <nav class="nav container">
+    <a routerLink="/about" class="nav__logo">Dev. Full Stack</a>
+    <div class="nav__menu" id="nav-menu">
+      <ul class="nav__list">
+        <li [routerLink]="item.router" *ngFor="let item of mainMenu.defaultOptions" class="nav__item">
+          <a class="nav__link active-link ">
+            <i [ngClass]="['bx',item.icon,'nav__icon']"></i>
+            <span class="nav__name">{{item.name}}</span>
+          </a>
+        </li>
+      </ul>
+    </div>
+    <img src="assets/img/Photo.svg" alt="" class="nav__img">
+  </nav>
+</header>

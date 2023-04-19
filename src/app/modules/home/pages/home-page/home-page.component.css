@@ -1,0 +1,10 @@
+.home-wrapper{
+  margin: 4.5rem 0 0 0;
+  background: var(--bg-color);
+  min-height: calc(100vh - 4.5rem);
+}
+@media screen and (max-width: 767px) {
+  .home-wrapper{
+    margin: 3rem 0 0 0;
+  }
+}

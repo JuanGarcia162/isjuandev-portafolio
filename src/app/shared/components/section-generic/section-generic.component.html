@@ -1,0 +1,10 @@
+<div class="section__generic">
+  <h1 class="title">{{title}}</h1>
+  <div class="portafolio__zone">
+    <ul class="portafolio__list" [ngClass]="{'card-big':mode === 'big'}">
+      <li *ngFor="let proyecto of dataProyectos">
+        <app-card-portfolio [proyecto]="proyecto" [mode]="mode"></app-card-portfolio>
+      </li>
+    </ul>
+  </div>
+</div>

@@ -1,1 +1,49 @@
 /* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Akshar&family=Roboto&display=swap');
+:root{
+  /* GENERAL */
+  --header-height: 3rem;
+  --border-radius-1: 15px 5px 15px 5px;
+  --border-radius-2: .5rem;
+  --font-family: 'Akshar', sans-serif;
+  --font-size-xl: 10rem;
+  --font-size-l: 4.5rem;
+  --font-size-ml: 3rem;
+  --font-size-m: 2rem;
+  --font-size-s: 1.2rem;
+  --font-size-x: 1rem;
+  --font-size-xs: 0.8rem;
+  --font-weight-s: 540;
+  --animation-1: 200ms;
+  /* LIGHT */
+  --navbar-color: #257BB9;
+  --bg-color: #0367A5;
+  --title-color: #61D9FF;
+  --p-color: #fff;
+  --btn-color: #81BEFB;
+  /* DARK */
+  --navbar-color-d: #1C3859;
+  --bg-color-d: #142540;
+  --title-color-d: #33A8DA;
+  --btn-color-d: #13508D;
+  --p-color: #fff;
+  /* z index */
+  --z-toolip: 10;
+  --z-fixed: 100;
+}
+
+html,
+body{
+  margin: var(--header-height) 0 0 0;
+  scroll-behavior: smooth;
+  margin: 0;
+  padding: 0;
+  background-color: var(--bg-color);
+  font-family: var(--font-family);
+}
+h1,h2{
+  color: var(--title-color);
+}
+p{
+  color: var(--p-color);
+}

@@ -1,0 +1,11 @@
+<div *ngIf="mode==='big'" class="card-portafolio">
+  <img [src]="proyecto.cover" [alt]="proyecto.name" class="cover">
+  <div class="content-portafolio">
+    <span>{{proyecto.name}}</span>
+    <img [src]="proyecto.enlace" [alt]="proyecto.name" class="logo">
+    <img [src]="proyecto.tecno1" [alt]="proyecto.name" class="logo">
+    <img [src]="proyecto.tecno2" [alt]="proyecto.name" class="logo">
+    <img [src]="proyecto.tecno3" [alt]="proyecto.tecno3" class="logo">
+    <img [src]="proyecto.repo" [alt]="proyecto.name" class="logo">
+  </div>
+</div>

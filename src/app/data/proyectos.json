@@ -1,0 +1,35 @@
+{
+  "data":
+  [
+    {
+      "_id": 1,
+      "name": "PORTAFOLIO",
+      "cover": "https://github.com/JuanGarcia162/imagenes-portafolio/blob/master/Sobre%20Mi%20%231Dark.png?raw=true",
+      "enlace": "https://raw.githubusercontent.com/JuanGarcia162/imagenes-portafolio/19648fa47f3193253cfd39a9876c053da2516637/Link-Proyecto%20%231.svg",
+      "tecno1": "https://raw.githubusercontent.com/JuanGarcia162/imagenes-portafolio/19648fa47f3193253cfd39a9876c053da2516637/icon-html.svg",
+      "tecno2": "https://raw.githubusercontent.com/JuanGarcia162/imagenes-portafolio/19648fa47f3193253cfd39a9876c053da2516637/icon-css.svg",
+      "tecno3": "https://raw.githubusercontent.com/JuanGarcia162/imagenes-portafolio/19648fa47f3193253cfd39a9876c053da2516637/icon-Js.svg",
+      "repo": "https://raw.githubusercontent.com/JuanGarcia162/imagenes-portafolio/19648fa47f3193253cfd39a9876c053da2516637/Github-icon.svg"
+    },
+    {
+      "_id": 2,
+      "name": "AR-NFT",
+      "cover": "https://github.com/JuanGarcia162/imagenes-portafolio/blob/master/Group%201.png?raw=true",
+      "enlace": "https://raw.githubusercontent.com/JuanGarcia162/imagenes-portafolio/19648fa47f3193253cfd39a9876c053da2516637/Link-Proyecto%20%231.svg",
+      "tecno1": "https://raw.githubusercontent.com/JuanGarcia162/imagenes-portafolio/54cac0c68d43559cecb121dd18ac603ba8195a33/unity-svgrepo-com.svg",
+      "tecno2": "https://raw.githubusercontent.com/JuanGarcia162/imagenes-portafolio/54cac0c68d43559cecb121dd18ac603ba8195a33/c-sharp-.svg",
+      "tecno3": "https://raw.githubusercontent.com/JuanGarcia162/imagenes-portafolio/19648fa47f3193253cfd39a9876c053da2516637/icon-Js.svg",
+      "repo": "https://raw.githubusercontent.com/JuanGarcia162/imagenes-portafolio/19648fa47f3193253cfd39a9876c053da2516637/Github-icon.svg"
+    },
+    {
+      "_id": 3,
+      "name": "Food-Menu",
+      "cover": "https://github.com/JuanGarcia162/imagenes-portafolio/blob/master/Group%202.png?raw=true",
+      "enlace": "https://raw.githubusercontent.com/JuanGarcia162/imagenes-portafolio/19648fa47f3193253cfd39a9876c053da2516637/Link-Proyecto%20%231.svg",
+      "tecno1": "https://raw.githubusercontent.com/JuanGarcia162/imagenes-portafolio/54cac0c68d43559cecb121dd18ac603ba8195a33/unity-svgrepo-com.svg",
+      "tecno2": "https://raw.githubusercontent.com/JuanGarcia162/imagenes-portafolio/54cac0c68d43559cecb121dd18ac603ba8195a33/c-sharp-.svg",
+      "tecno3": "https://raw.githubusercontent.com/JuanGarcia162/imagenes-portafolio/19648fa47f3193253cfd39a9876c053da2516637/icon-Js.svg",
+      "repo": "https://raw.githubusercontent.com/JuanGarcia162/imagenes-portafolio/19648fa47f3193253cfd39a9876c053da2516637/Github-icon.svg"
+    }
+  ]
+}
