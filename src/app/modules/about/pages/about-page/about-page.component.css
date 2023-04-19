@@ -37,10 +37,10 @@
   line-height: 1.8rem;
 }
 .btn{
+  text-decoration: none;
   margin-top: 1rem;
   color: var(--p-color);
   font-size: var(--font-size-m);
-  font-weight: var(--font-weight-s);
   border-style: solid;
   border-width: 1.5px;
   border-radius: var(--border-radius-1);
@@ -48,6 +48,10 @@
   width: 240px;
   height: 56px;
   background: var(--btn-color);
+}
+.btn h3{
+  margin-left: 20px;
+  font-weight: var(--font-weight-s);
 }
 
 @media screen and (max-width: 767px) {

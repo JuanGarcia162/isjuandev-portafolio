@@ -7,8 +7,12 @@
       "hosting": {
         "isjuandev-V2": [
           "isjuandev"
+        ],
+        "isjuandev": [
+          "default"
         ]
       }
     }
-  }
+  },
+  "etags": {}
 }
