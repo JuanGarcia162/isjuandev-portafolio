@@ -1,5 +1,14 @@
 {
   "projects": {
     "default": "isjuandev"
+  },
+  "targets": {
+    "isjuandev": {
+      "hosting": {
+        "isjuandev-V2": [
+          "isjuandev"
+        ]
+      }
+    }
   }
 }

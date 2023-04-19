@@ -91,6 +91,16 @@
             ],
             "scripts": []
           }
+        },
+        "deploy": {
+          "builder": "@angular/fire:deploy",
+          "options": {
+            "prerender": false,
+            "ssr": false,
+            "browserTarget": "isjuandev-V2:build:production",
+            "firebaseProject": "isjuandev",
+            "firebaseHostingSite": "isjuandev"
+          }
         }
       }
     }
