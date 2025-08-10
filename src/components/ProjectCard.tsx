@@ -64,7 +64,7 @@ const ProjectCard: React.FC<ProjectCardProps> = ({
           {tags.map((tag, index) => (
             <span 
               key={index}
-              className="bg-btn-primary dark:bg-btn-primary-dark text-gray-900 dark:text-white text-xs px-2 py-1 rounded-full"
+              className="bg-btn-primary-dark text-white text-xs px-2 py-1 rounded-full"
             >
               {tag}
             </span>
